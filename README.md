@@ -1,4 +1,4 @@
-:raised_hands: Hey there, Neighbor! I am none other than @HivelocityDonald! So glad you chose to check out my README!
+:raised_hands: Hey, Neighbor! I am none other than @HivelocityDonald! So glad you chose to check out my README!
 
 
 
