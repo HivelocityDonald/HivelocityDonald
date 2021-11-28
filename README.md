@@ -13,7 +13,7 @@ Previously I worked on our NOC Team doing: Sysadmin, Assistant NOC Manager, and 
 
 Technologies/Languages/etctera used to make the Magic POP - May still be learning some languages!
 
-Language:
+Languages:
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
