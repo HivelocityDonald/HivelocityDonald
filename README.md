@@ -3,7 +3,10 @@
 
 
 What I currently do:
+
 Junior Network Engineer @hivelocity
+
+
 Previously I worked on our NOC Team doing: Sysadmin, Assistant NOC Manager, and worked as a NOC Lead, in leading our entire Support Team of Techs.
 
 
